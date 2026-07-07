@@ -1,4 +1,4 @@
-package me.cortex.voxy.common.world;
+package m.cortex.voxy.common.world;
 
 import it.unimi.dsi.fastutil.longs.Long2ObjectLinkedOpenHashMap;
 import it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap;
